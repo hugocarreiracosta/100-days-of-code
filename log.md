@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
-### Day 0: 25 de Fevereiro de 2018
-##### (delete me or comment me out)
+### Dia 0: 25 de Fevereiro de 2018
+##### (comentario do dia)
 
 **Progresso diário**: O que eu fiz no dia
 
