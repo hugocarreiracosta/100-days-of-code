@@ -8,3 +8,10 @@
 **Anotações:** Anotações e pensamentos sobre a atividade diaria
 
 **Link do projeto:** [Link Name Here](http://www.example.com)
+
+
+### Dia 1: 25 de Fevereiro de 2018
+
+**Progresso diário**: Fiz a sessão de JQuery no FreeCodeCamp, explorei a documentação do bootstrap 4 e iniciei uma Tribute Page para Portinari
+
+**Anotações:** Quando faz tempo que não usamos alguma tecnologia muito conhecimento se perde, é preciso sempre retormar aprendizados para não perder conhecimento.
