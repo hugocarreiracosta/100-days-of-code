@@ -15,3 +15,9 @@
 **Progresso diário**: Fiz a sessão de JQuery no FreeCodeCamp, explorei a documentação do bootstrap 4 e iniciei uma Tribute Page para Portinari
 
 **Anotações:** Quando faz tempo que não usamos alguma tecnologia muito conhecimento se perde, é preciso sempre retormar aprendizados para não perder conhecimento.
+
+### Dia 2: 26 de Fevereiro de 2018
+
+**Progresso diário**: Desenvolvimento de Todo app em Xamarin Forms
+
+**Anotações:** Uso de Xamarin para trabalho academico
