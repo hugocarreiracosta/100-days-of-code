@@ -21,3 +21,9 @@
 **Progresso diário**: Desenvolvimento de Todo app em Xamarin Forms
 
 **Anotações:** Uso de Xamarin para trabalho academico
+
+### Dia 2: 27 de Fevereiro de 2018
+
+**Progresso diário**: Finalização de Desenvolvimento de Todo app em Xamarin Forms e estudou em Semantic UI Themes
+
+**Anotações:** Uso de Xamarin para trabalho academico e teste para empresa em Semantic UI
