@@ -22,8 +22,20 @@
 
 **Anotações:** Uso de Xamarin para trabalho academico
 
-### Dia 2: 27 de Fevereiro de 2018
+### Dia 3: 27 de Fevereiro de 2018
 
 **Progresso diário**: Finalização de Desenvolvimento de Todo app em Xamarin Forms e estudou em Semantic UI Themes
 
 **Anotações:** Uso de Xamarin para trabalho academico e teste para empresa em Semantic UI
+
+### Dia 4: 28 de Fevereiro de 2018
+
+**Progresso diário**: Estudos em Semantic UI e Gulp Js
+
+**Anotações:** Preciso aprender bastante sobre Gulp e entender melhor a estrutura de pastas do Semantic UI e como colocar o código de forma eficiente para produção
+
+### Dia 5: 01 de Março de 2018
+
+**Progresso diário**: Estudos em JS
+
+**Anotações:** Sempre bom uma boa leitura e exercicio em fundamentos da linguagem
