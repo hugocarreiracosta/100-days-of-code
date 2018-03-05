@@ -49,3 +49,9 @@
 ### Dia 7: 03 de Março de 2018
 
 **Progresso diário**: Nenhum estudo foi feito :/ 
+
+### Dia 8: 04 de Março de 2018
+
+**Progresso diário**: Estudos em CSS Grid Layout
+
+**Anotações:** Uma nova especificação CSS poderosa e muito interessante para aplicar em projetos novos. 
