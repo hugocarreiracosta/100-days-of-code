@@ -39,3 +39,13 @@
 **Progresso diário**: Estudos em JS
 
 **Anotações:** Sempre bom uma boa leitura e exercicio em fundamentos da linguagem
+
+### Dia 6: 02 de Março de 2018
+
+**Progresso diário**: Estudos em JS no FreeCodeCamp
+
+**Anotações:** Sempre bom uma boa leitura e exercicio em fundamentos da linguagem, estudos por 40 minutos
+
+### Dia 7: 03 de Março de 2018
+
+**Progresso diário**: Nenhum estudo foi feito :/ 
