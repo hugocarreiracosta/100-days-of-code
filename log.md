@@ -55,3 +55,39 @@
 **Progresso diário**: Estudos em CSS Grid Layout
 
 **Anotações:** Uma nova especificação CSS poderosa e muito interessante para aplicar em projetos novos. 
+
+### Dia 9: 05 de Março de 2018
+
+**Progresso diário**: JavaScript funções e arrays
+
+**Anotações:** Continuei a sessão de JS do FreeCodeCamp 
+
+### Dia 10: 06 de Março de 2018
+
+**Progresso diário**: JavaScript Orientado a Objetos e Funcional
+
+**Anotações:** Finalizando a sessão de JS do FreeCodeCamp e aprendendo paradigmas de programação com JS 
+
+### Dia 11: 07 de Março de 2018
+
+**Progresso diário**: Desafios de Algoritmos em JavaScript e Alteração de Layout para trabalho voluntário.
+
+**Anotações:** Iniciei a sessão de desafios de algoritmos no FreeCodeCamp e trabalhei em um projeto voluntário de Help Desk em Laravel. 
+
+### Dia 12: 08 de Março de 2018
+
+**Progresso diário**: Finalizando alterações no layout de um projeto voluntário de Help Desk em Laravel
+
+**Anotações:** Fazendo leves alterações no CSS e Blade do projeto em Laravel. 
+
+### Dia 13: 09 de Março de 2018
+
+**Progresso diário**: Estudos em CSS Grid Layout e CSS Variáveis 
+
+**Anotações:** Estudando um pouco mais de CSS Grid e iniciei meus estudos em variáveis CSS, achei muito promissora e poderosa, espero que todos os navegadores aceitem em breve.  
+
+### Dia 14: 10 de Março de 2018
+
+**Progresso diário**: Não programei nesse dia, o desafio vai até R1D102 :(
+**Anotações:** Priorizando o tempo com a família decidi não programar nesse dia, sendo assim o desafio foi prolongado mais dois dias por conta da semana passada tbm! 
+
