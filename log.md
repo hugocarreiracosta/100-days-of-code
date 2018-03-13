@@ -91,3 +91,8 @@
 **Progresso diário**: Não programei nesse dia, o desafio vai até R1D102 :(
 **Anotações:** Priorizando o tempo com a família decidi não programar nesse dia, sendo assim o desafio foi prolongado mais dois dias por conta da semana passada tbm! 
 
+### Dia 15: 11 de Março de 2018
+
+**Progresso diário**: Preparação para entrevista de emprego, estudos em Semantic UI, Gulp e LESS
+**Anotações:** Estudei algumas tecnologias usadas pela empresa na qual fui fazer entrevista, e cada dia que passa eu percebo mais a importância de dominar os fundamentos de qualquer tecnologia. 
+
