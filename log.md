@@ -100,3 +100,9 @@
 
 **Progresso diário**: Mais estudos em CSS Grid Layout
 **Anotações:** Agora está muito fácil trabalhar com responsividade com Grid Areas! :)
+
+
+### Dia 17: 13 de Março de 2018
+
+**Progresso diário**: Estudos em CSS Grid e criação da logo pessoal
+**Anotações:** Primeiro passo foi dado para refazer meu site.
